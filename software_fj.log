@@ -1,0 +1,156 @@
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Intentando inicio de sesión con usuario 'admin'...
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Intento de autenticación para usuario: 'admin'
+2026-11-19 14:24:49 [WARNING] (fase4_software_fj): Fallo de autenticación: Credenciales incorrectas. Usuario o contraseña no válidos.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Finalizado proceso de verificación de credenciales.
+2026-11-19 14:24:49 [WARNING] (fase4_software_fj): Inicio de sesión rechazado: Credenciales incorrectas. Usuario o contraseña no válidos.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Operación de inicio de sesión completada.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Intentando inicio de sesión con usuario 'admin'...
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Intento de autenticación para usuario: 'admin'
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Autenticación exitosa.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Finalizado proceso de verificación de credenciales.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Sesión iniciada con éxito por el usuario administrador.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Operación de inicio de sesión completada.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Registrando cliente [C101]...
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Cliente [C101] registrado exitosamente en memoria.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Finalizado proceso de registro para cliente ID [C101].
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Registrando cliente [C102]...
+2026-11-19 14:24:49 [WARNING] (fase4_software_fj): Error al registrar cliente [C102]: El correo electrónico 'correo_invalido_sin_arroba' no tiene un formato válido.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Finalizado proceso de registro para cliente ID [C102].
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Registrando nuevo servicio [S-01]...
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Servicio [S-01] registrado en memoria.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Finalizado intento de registro de servicio.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Registrando nuevo servicio [S-02]...
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Servicio [S-02] registrado en memoria.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Finalizado intento de registro de servicio.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Registrando nuevo servicio [S-03]...
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Servicio [S-03] registrado en memoria.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Finalizado intento de registro de servicio.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1001]...
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Reserva [R-1001] creada y confirmada exitosamente.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1001].
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1002]...
+2026-11-19 14:24:49 [WARNING] (fase4_software_fj): Fallo al crear reserva [R-1002]: No existe ningún cliente registrado con el ID 'C999'.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1002].
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1003]...
+2026-11-19 14:24:49 [WARNING] (fase4_software_fj): Fallo al crear reserva [R-1003]: La hora de finalización (11:00) debe ser estrictamente posterior a la hora de inicio (16:00).
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1003].
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1004]...
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Reserva [R-1004] creada y confirmada exitosamente.
+2026-11-19 14:24:49 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1004].
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Intentando inicio de sesión con usuario 'admin'...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Intento de autenticación para usuario: 'admin'
+2026-11-19 14:38:16 [WARNING] (fase4_software_fj): Fallo de autenticación: Credenciales incorrectas. Usuario o contraseña no válidos.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de verificación de credenciales.
+2026-11-19 14:38:16 [WARNING] (fase4_software_fj): Inicio de sesión rechazado: Credenciales incorrectas. Usuario o contraseña no válidos.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Operación de inicio de sesión completada.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Intentando inicio de sesión con usuario 'admin'...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Intento de autenticación para usuario: 'admin'
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Autenticación exitosa.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de verificación de credenciales.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Sesión iniciada con éxito por el usuario administrador.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Operación de inicio de sesión completada.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Registrando cliente [C101]...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Cliente [C101] registrado exitosamente en memoria.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de registro para cliente ID [C101].
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Registrando cliente [C102]...
+2026-11-19 14:38:16 [WARNING] (fase4_software_fj): Error al registrar cliente [C102]: El correo electrónico 'correo_invalido_sin_arroba' no tiene un formato válido.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de registro para cliente ID [C102].
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Registrando nuevo servicio [S-01]...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Servicio [S-01] registrado en memoria.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado intento de registro de servicio.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Registrando nuevo servicio [S-02]...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Servicio [S-02] registrado en memoria.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado intento de registro de servicio.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Registrando nuevo servicio [S-03]...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Servicio [S-03] registrado en memoria.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado intento de registro de servicio.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1001]...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Reserva [R-1001] creada y confirmada exitosamente.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1001].
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1002]...
+2026-11-19 14:38:16 [WARNING] (fase4_software_fj): Fallo al crear reserva [R-1002]: No existe ningún cliente registrado con el ID 'C999'.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1002].
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1003]...
+2026-11-19 14:38:16 [WARNING] (fase4_software_fj): Fallo al crear reserva [R-1003]: La hora de finalización (11:00) debe ser estrictamente posterior a la hora de inicio (16:00).
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1003].
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1004]...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Reserva [R-1004] creada y confirmada exitosamente.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1004].
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Intentando inicio de sesión con usuario 'admin'...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Intento de autenticación para usuario: 'admin'
+2026-11-19 14:38:16 [WARNING] (fase4_software_fj): Fallo de autenticación: Credenciales incorrectas. Usuario o contraseña no válidos.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de verificación de credenciales.
+2026-11-19 14:38:16 [WARNING] (fase4_software_fj): Inicio de sesión rechazado: Credenciales incorrectas. Usuario o contraseña no válidos.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Operación de inicio de sesión completada.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Intentando inicio de sesión con usuario 'admin'...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Intento de autenticación para usuario: 'admin'
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Autenticación exitosa.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de verificación de credenciales.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Sesión iniciada con éxito por el usuario administrador.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Operación de inicio de sesión completada.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Registrando cliente [C101]...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Cliente [C101] registrado exitosamente en memoria.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de registro para cliente ID [C101].
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Registrando cliente [C102]...
+2026-11-19 14:38:16 [WARNING] (fase4_software_fj): Error al registrar cliente [C102]: El correo electrónico 'correo_invalido_sin_arroba' no tiene un formato válido.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de registro para cliente ID [C102].
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Registrando nuevo servicio [S-01]...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Servicio [S-01] registrado en memoria.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado intento de registro de servicio.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Registrando nuevo servicio [S-02]...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Servicio [S-02] registrado en memoria.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado intento de registro de servicio.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Registrando nuevo servicio [S-03]...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Servicio [S-03] registrado en memoria.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado intento de registro de servicio.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1001]...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Reserva [R-1001] creada y confirmada exitosamente.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1001].
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1002]...
+2026-11-19 14:38:16 [WARNING] (fase4_software_fj): Fallo al crear reserva [R-1002]: No existe ningún cliente registrado con el ID 'C999'.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1002].
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1003]...
+2026-11-19 14:38:16 [WARNING] (fase4_software_fj): Fallo al crear reserva [R-1003]: La hora de finalización (11:00) debe ser estrictamente posterior a la hora de inicio (16:00).
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1003].
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1004]...
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Reserva [R-1004] creada y confirmada exitosamente.
+2026-11-19 14:38:16 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1004].
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Intentando inicio de sesión con usuario 'admin'...
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Intento de autenticación para usuario: 'admin'
+2026-11-19 14:38:17 [WARNING] (fase4_software_fj): Fallo de autenticación: Credenciales incorrectas. Usuario o contraseña no válidos.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Finalizado proceso de verificación de credenciales.
+2026-11-19 14:38:17 [WARNING] (fase4_software_fj): Inicio de sesión rechazado: Credenciales incorrectas. Usuario o contraseña no válidos.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Operación de inicio de sesión completada.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Intentando inicio de sesión con usuario 'admin'...
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Intento de autenticación para usuario: 'admin'
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Autenticación exitosa.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Finalizado proceso de verificación de credenciales.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Sesión iniciada con éxito por el usuario administrador.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Operación de inicio de sesión completada.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Registrando cliente [C101]...
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Cliente [C101] registrado exitosamente en memoria.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Finalizado proceso de registro para cliente ID [C101].
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Registrando cliente [C102]...
+2026-11-19 14:38:17 [WARNING] (fase4_software_fj): Error al registrar cliente [C102]: El correo electrónico 'correo_invalido_sin_arroba' no tiene un formato válido.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Finalizado proceso de registro para cliente ID [C102].
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Registrando nuevo servicio [S-01]...
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Servicio [S-01] registrado en memoria.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Finalizado intento de registro de servicio.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Registrando nuevo servicio [S-02]...
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Servicio [S-02] registrado en memoria.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Finalizado intento de registro de servicio.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Registrando nuevo servicio [S-03]...
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Servicio [S-03] registrado en memoria.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Finalizado intento de registro de servicio.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1001]...
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Reserva [R-1001] creada y confirmada exitosamente.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1001].
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1002]...
+2026-11-19 14:38:17 [WARNING] (fase4_software_fj): Fallo al crear reserva [R-1002]: No existe ningún cliente registrado con el ID 'C999'.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1002].
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1003]...
+2026-11-19 14:38:17 [WARNING] (fase4_software_fj): Fallo al crear reserva [R-1003]: La hora de finalización (11:00) debe ser estrictamente posterior a la hora de inicio (16:00).
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1003].
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Procesando creación de reserva [R-1004]...
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Reserva [R-1004] creada y confirmada exitosamente.
+2026-11-19 14:38:17 [INFO] (fase4_software_fj): Finalizado proceso de reserva [R-1004].
